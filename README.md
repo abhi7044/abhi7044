@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Mishra</h1>
 <h3 align="center">A passionate Gen AI developer from India (AGI)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi7044&label=Profile%20views&color=0e75b6&style=flat" alt="abhi7044" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi7044&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi7044" alt="abhi7044" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi7044" alt="github" /></a> </p>
 
 - 🌱 I have completed my **DSA Java**
-- I am currently learning **Gen AI** 
+- I am currently learning **Full stack Development** 
 
-- 📫 How to reach me **teslanikola664@gmail.com**
+- 📫 How to reach me **teslanikola664@gmail.com/ er.abhijeetmishra2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
