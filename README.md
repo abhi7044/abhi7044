@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Abhijeet Mishra, Full-Stack Developer. Backend-first MERN engineer, Java DSA practitioner, B.Tech IT student at BCET Durgapur." width="100%">
+  <img src="./dark.svg" alt="Abhijeet Mishra, Full-Stack Developer. Backend MERN engineer, Java DSA practitioner, B.Tech IT student at BCET Durgapur." width="100%">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+Engineer;Java+DSA+Practitioner;Open+Source+Enthusiast;B.Tech+IT+%2727+%40+BCET)](https://github.com/abhi7044)
